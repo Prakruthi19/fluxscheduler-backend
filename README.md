@@ -109,5 +109,5 @@ Jobs have type affinity — `llm_inference` and `fine_tuning` only run on GPU-ca
 
 ## Related
 
-- **[fluxscheduler-frontend](https://github.com/prakruthi/fluxscheduler-frontend)** — React + TypeScript dashboard with Gantt timeline, strategy comparison, and node sparklines
-- **[distributed-scheduler](https://github.com/prakruthi/distributed-scheduler)** — original Go/gRPC prototype
+- **[fluxscheduler-frontend](https://github.com/Prakruthi19/fluxscheduler-frontend)** — React + TypeScript dashboard with Gantt timeline, strategy comparison, and node sparklines
+- **[distributed-scheduler](https://github.com/Prakruthi19/distributed-scheduler)** — original Go/gRPC prototype
